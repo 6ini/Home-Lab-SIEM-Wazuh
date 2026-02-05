@@ -43,4 +43,4 @@ To test the defensive capabilities, I executed the following "Red Team" scenario
 
 **3. "Backdoor" Detection (Level 12 Alert)**
 *A Critical Alert triggered when a user was added to the "Administrators" group.*
-![Admin Alert](Admin_alert.png)
+![Admin Alert](Admin_Alert.png)
