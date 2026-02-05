@@ -35,12 +35,12 @@ To test the defensive capabilities, I executed the following "Red Team" scenario
 
 **1. Dashboard Overview**
 *Visualizing the security events and agent status.*
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 **2. Brute Force Detection**
 *Wazuh capturing rapid "Logon Failure" events (Rule ID 60122) caused by the Hydra attack.*
-![Brute Force Logs](bruteforce.png)
+![Brute Force Logs](BruteForce.png)
 
 **3. "Backdoor" Detection (Level 12 Alert)**
 *A Critical Alert triggered when a user was added to the "Administrators" group.*
-![Admin Alert](admin_alert.png)
+![Admin Alert](Admin_alert.png)
