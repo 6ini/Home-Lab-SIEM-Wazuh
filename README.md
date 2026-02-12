@@ -5,7 +5,7 @@ Home SOC environment using Wazuh as a centralized point detect and analyze attac
 ###  Project Overview
 This project focuses on building a **Security Information and Event Management (SIEM)** system to monitor, detect, and respond to security threats in a virtualized enterprise environment. I deployed **Wazuh** as the core SIEM solution and integrated a **Windows 11 endpoint** to simulate real-world attacks.
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 * **SIEM:** Wazuh (Manager & Dashboard)
 * **Endpoint:** Windows 11 (Wazuh Agent installed)
 * **Virtualization:** VirtualBox
