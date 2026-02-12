@@ -1,8 +1,8 @@
 # Home-Lab-SIEM-Wazuh
 Home SOC environment using Wazuh as a centralized point detect and analyze attacks.
-# 🛡️ Home Lab Enterprise SIEM Implementation
+#  Home Lab Enterprise SIEM Implementation
 
-### 📖 Project Overview
+###  Project Overview
 This project focuses on building a **Security Information and Event Management (SIEM)** system to monitor, detect, and respond to security threats in a virtualized enterprise environment. I deployed **Wazuh** as the core SIEM solution and integrated a **Windows 11 endpoint** to simulate real-world attacks.
 
 ### 🛠️ Tools & Technologies
@@ -14,7 +14,7 @@ This project focuses on building a **Security Information and Event Management (
 
 ---
 
-### ⚡ Key Activities
+###  Key Activities
 
 #### 1. Infrastructure Setup
 * Deployed the **Wazuh Manager** on a Linux server to act as the central log collector.
@@ -31,7 +31,7 @@ To test the defensive capabilities, I executed the following "Red Team" scenario
 
 ---
 
-### 📸 Evidence
+###  Evidence
 
 **1. Dashboard Overview**
 *Visualizing the security events and agent status.*
